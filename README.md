@@ -1,6 +1,6 @@
 # About
 - 👋 Hi, I’m @Hiltslash
-- 👀 I’m interested in web development and making games
+- 👀 I’m interested in web development and low-level programming
 - 🌱 I’m currently learning C and working some more on Javascript.
 - 📫 How to reach me: gfx93theboi@gmail.com
 - ⚡ Fun fact: using a 2020 macbook air
