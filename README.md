@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C and working some more on Javascript.
 - 📫 How to reach me: gfx93theboi@gmail.com
 - ⚡ Fun fact: using a 2020 macbook air
-- & Current projects: Building a custom programming language in python (Cobra), Clicker Game Template
+- & Current projects: C Tools, Clicker Game Template
 
 ## 💬 Favorite Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiltslash&layout=compact&theme=holi&hide=css)
